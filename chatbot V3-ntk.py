@@ -8,7 +8,7 @@ global last_msg
 
 estatus=1
 
-TOKEN = "TOKEN"
+TOKEN = "1037468236:AAEn6XuqsbRWxi3QNUVTS6vDAycqs-BlX4I"
 bot = telepot.Bot(TOKEN)
 
 def talk(text, estatus):
